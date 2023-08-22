@@ -642,6 +642,7 @@ footer .footer-custom-content {
   -o-background-size: cover;
   margin-top: 3.1875rem; /* The small navbar is 50px tall + 1px border */
   margin-bottom: 2.1875rem;
+
 }
 nav.top-nav-short-permanent ~ header > .intro-header {
   margin-top: 5rem;
@@ -668,7 +669,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 .intro-header.big-img .page-heading,
 .intro-header.big-img .post-heading {
-  padding: 6.25rem 0;
+  padding: 3rem 0;
   color: #FFF;
   text-shadow: 1px 1px 3px #000;
 }
@@ -724,7 +725,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   }
   .intro-header.big-img .page-heading,
   .intro-header.big-img .post-heading {
-    padding: 9.375rem 0;
+    padding: 3rem 0;
   }
   .intro-header .page-heading h1 {
     font-size: 5rem;
@@ -1115,4 +1116,14 @@ pre {
   #nav-search-text {
     display: inline-block;
   }
+}
+
+
+.fa-stack-1x {
+  color: {{ site.footer-col | default: "#404040" }};
+}
+
+.container-blur {
+  width: 100%;
+  backdrop-filter: blur(5px);
 }

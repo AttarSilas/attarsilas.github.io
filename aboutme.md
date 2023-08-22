@@ -1,16 +1,21 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Attar Silas
+subtitle: “Un gentleman ne peut s’intéresser qu’à des causes perdues...” - Jorge Luis Borges
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+# Ici
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Extraits de mes écrits, fragments, nouvelles.
+Cabinet de curiosités poétiques, labyrinthes esthétiques, art du détachement, précis de réalisme magique.
 
-What else do you need?
+# Là-bas
 
-### My story
+Intermittent de la société du spectacle, dresseur d'aphorismes, militant de l'inutilité et de la poésie quotidienne, anachorète urbain, apatride temporel, intranquille permanent, poète par accident.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Tantôt Quichotte, tantôt Pacha. Parfois Cyrano, mais plus souvent Bartleby.
+Accessoirement, Magus.
+
+# Contact:
+
+attar.silas AROBASE gmail.com
