@@ -1127,3 +1127,7 @@ pre {
   width: 100%;
   backdrop-filter: blur(5px);
 }
+
+.title-3-rem{
+  font-size: 3rem!important;
+}
