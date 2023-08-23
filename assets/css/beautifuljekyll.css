@@ -1131,3 +1131,8 @@ pre {
 .title-3-rem{
   font-size: 3rem!important;
 }
+
+.blog-post p {
+  text-justify: inter-word;
+  text-align: justify;
+}
