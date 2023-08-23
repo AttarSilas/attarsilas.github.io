@@ -1136,3 +1136,8 @@ pre {
   text-justify: inter-word;
   text-align: justify;
 }
+
+.post-article {
+  text-align: right;
+  font-style: italic;
+}
