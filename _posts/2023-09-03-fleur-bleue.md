@@ -26,7 +26,7 @@ Mais la connerie, ça passe. Tout passe. Sauf être fleur bleue.
 
 Mine de rien, ce n’est pas un âge pour devenir orphelin. C’est trop vieux pour susciter une véritable sympathie, mais trop jeune quand on est fleur bleue, et qu’on s’écorche sur la moindre lettre de relance. Mes dents n’ont pas de crocs. Je ne sais pas comment font les gens pour accepter de vivre comme ça, dans le quotidien prosaïque et la routine malveillante. 
 
-Je vous jure, je ne sais rien faire d’autres que rêver. Pour moi, les bâtiments ont des jambes, et se déplacent la nuit. Les voitures ont des sentiments, et elles ne nous aiment pas. Les passants disparaissent lorsqu’ils tournent au bout de la rue, et la réalité les recycle en changeant leurs noms et leurs vêtements. Heureusement, écrire m’est vite passé. J’aurai fini interner, à tenir l’escabeau d’un Napoléon Bonaparte du Val-de-Marne. 
+Je vous jure, je ne sais rien faire d’autres que rêver. Pour moi, les bâtiments ont des jambes, et se déplacent la nuit. Les voitures ont des sentiments, et elles ne nous aiment pas. Les passants disparaissent lorsqu’ils tournent au bout de la rue, et la réalité les recycle en changeant leurs noms et leurs vêtements. Heureusement, écrire m’est vite passé. J’aurai fini interné, à tenir l’escabeau d’un Napoléon Bonaparte du Val-de-Marne. 
 
 La vie n’est pas facile, pour nous, les fleurs bleues. Alors, la prochaine que vous en croisez un, laissez-le dans son pâturage. Nous sommes polis et propres sur nous (la plupart du temps). Et surtout, nous ne servons à rien, mais avons le mérite de ne pas couter cher en entretien. 
 
