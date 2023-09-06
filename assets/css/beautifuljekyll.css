@@ -1141,3 +1141,41 @@ pre {
   text-align: right;
   font-style: italic;
 }
+
+
+.noa-button {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 1rem;
+  font-weight: 800;
+  letter-spacing: 1px;
+  padding: 0.8rem 0.4rem;
+  background-color: #1100ff;
+  color: #FFF;
+  width: 100%;
+  outline-width: 0px;
+  background-color: {{site.navbar-col}};
+  border: 1px solid {{ site.navbar-border-col | default: "#0085A1" }};
+  border-radius: 0.2rem;
+}
+
+.noa-button:hover,
+.noa-button::selection,
+.noa-button:focus {
+  color: #FFF;
+  border: 1px solid {{ site.hover-col | default: "#0085A1" }};
+  background-color: {{ site.hover-col | default: "#0085A1" }};
+}
+
+.noa-top {
+  width: 100%;
+  padding-bottom: 1rem;
+  display: flex;
+  gap: 1rem;
+}
+
+.noa-bottom {
+  width: 100%;
+  padding-top: 1rem;
+  display: flex;
+  gap: 1rem;
+}
