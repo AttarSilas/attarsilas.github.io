@@ -1151,7 +1151,6 @@ pre {
   padding: 0.8rem 0.4rem;
   background-color: #1100ff;
   color: #FFF;
-  width: 100%;
   outline-width: 0px;
   background-color: {{site.navbar-col}};
   border: 1px solid {{ site.navbar-border-col | default: "#0085A1" }};
@@ -1171,6 +1170,8 @@ pre {
   padding-bottom: 1rem;
   display: flex;
   gap: 1rem;
+  flex-wrap: wrap;
+  flex-direction: row;
 }
 
 .noa-bottom {
@@ -1178,4 +1179,18 @@ pre {
   padding-top: 1rem;
   display: flex;
   gap: 1rem;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.fullWith {
+  width: 100%;
+}
+
+.oneFlex {
+  flex: 1 1 0%;
+}
+
+.noa p {
+  margin: 0!important;
 }
