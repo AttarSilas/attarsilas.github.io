@@ -1,5 +1,7 @@
 # Beautiful Jekyll
 
+To launch locally: bundle exec jekyll serve
+
 [![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
 
 > By [Dean Attali](https://deanattali.com) &middot; [Demo](https://beautifuljekyll.com/)
