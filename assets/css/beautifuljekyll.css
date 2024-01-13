@@ -1194,3 +1194,7 @@ pre {
 .noa p {
   margin: 0!important;
 }
+
+.hidden {
+  visibility: hidden;
+}
